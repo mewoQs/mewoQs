@@ -1,0 +1,2 @@
+a = " mewo "
+print(a)
